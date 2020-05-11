@@ -15,4 +15,4 @@ Docker acdt image
 `docker exec -it docker-acdt /bin/bash`
 
 # acdt usage
-`acdt` is installed in folder `/opt/acdt/acdt-0.1.0` so you can run `acdt` with this command: `/opt/acdt/acdt-0.1.0/bin/acdt -h`
+`acdt` is installed in folder `/opt/acdt/acdt-0.2.0` so you can run `acdt` with this command: `/opt/acdt/acdt-0.2.0/bin/acdt -h`
